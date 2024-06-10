@@ -1,8 +1,8 @@
 ## Welcome to My GitHub Profile!
 
-I'm a web developer interested in React and Svelte.
+I'm a web developer with 3+ years pushing code in a production environment specializing in React and JavaScript.
 
-You can also find me elsewhere on the internet using the links below:
+You find me elsewhere on the internet using the links below:
 
 - [Website](https://zachheckert.com/)
 - [Blog](https://mind-dump-2.netlify.app/)
